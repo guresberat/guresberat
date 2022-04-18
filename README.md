@@ -1,9 +1,9 @@
 <h3 align="center">Hi there 👋, my name is Beratcan Güreş</h3>
 
-<h4 align="center"> I'm an Android Developer who is diligent and eager to learn more and more about Android and Kotlin.</h4>
+<h4 align="center"> I'm an Android Engineer who is diligent and eager to learn more and more about Android and Kotlin.</h4>
 
 ## About me
-- Android Developer at [Getir](https://getir.com/en/)
+- Android Engineer at [Getir](https://getir.com/en/)
 - Core team member at [GDSC ÇOMÜ](https://www.linkedin.com/company/gdsc-comu) and [GDG Çanakkale](https://www.linkedin.com/company/gdg-canakkale/)
 - Tries to demonstrate what he learns.
 - Loves to play games and is a huge LOTR fan.
