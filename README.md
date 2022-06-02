@@ -3,7 +3,6 @@
 <h4 align="center"> I'm an Android Engineer who is diligent and eager to learn more and more about Android and Kotlin.</h4>
 
 ## About me
-- Android Engineer at [Getir](https://getir.com/en/)
 - Core team member at [GDSC ÇOMÜ](https://www.linkedin.com/company/gdsc-comu) and [GDG Çanakkale](https://www.linkedin.com/company/gdg-canakkale/)
 - Tries to demonstrate what he learns.
 - Loves to play games and is a huge LOTR fan.
