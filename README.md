@@ -3,7 +3,7 @@
 <h4 align="center"> I'm an Android Engineer who is diligent and eager to learn more and more about Android and Kotlin.</h4>
 
 ## About me
-- Android Engineer at [Getir](https://getir.com/) 
+- Android Engineer at [Accenture](https://www.accenture.com/) 
 - Tries to demonstrate what he learns.
 - Loves to play games and is a huge LOTR fan.
 
